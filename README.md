@@ -23,7 +23,7 @@ Explorar, analisar e visualizar um conjunto de dados utilizando **Python**, apli
 
 ## 🖼 Prévia do Projeto
 
-![Preview do App](./assets/dados-python.gif)
+![Preview do App](assets/dados-python.gif)
 
 Acesse o app online: 👉 **[dados-python-mvpaes.streamlit.app](https://dados-python-mvpaes.streamlit.app/)**
 
