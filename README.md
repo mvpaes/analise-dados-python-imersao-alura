@@ -23,7 +23,7 @@ Explorar, analisar e visualizar um conjunto de dados utilizando **Python**, apli
 
 ## 🖼 Prévia do Projeto
 
-![Preview do App](https://raw.githubusercontent.com/mvpaes/analise-dados-python-imersao-alura/main/assets/dados-python.gif)
+![Preview do App](https://raw.githubusercontent.com/mvpaes/analise-dados-python-imersao-alura/main/assets/dados-python-mvpaes.gif)
 
 Acesse o app online: 👉 **[dados-python-mvpaes.streamlit.app](https://dados-python-mvpaes.streamlit.app/)**
 
